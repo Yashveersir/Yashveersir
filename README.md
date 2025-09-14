@@ -33,14 +33,14 @@ I'm passionate about building full-stack web applications and solving complex pr
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=[YourUsername]&theme=react&border_radius=5&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Yashveersir&theme=react&border_radius=5&mode=weekly" alt="GitHub Streak" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yashveersir&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=react" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveersir&layout=compact&theme=react" alt="Top Languages" height="165" />
   </a>
 </p>
 
@@ -50,11 +50,11 @@ I'm passionate about building full-stack web applications and solving complex pr
 
 I'm always open to discussing technology, collaboration, or internship opportunities.
 
-*   *LinkedIn:* [Your LinkedIn Profile Link](www.linkedin.com/in/yashveer-singh-41bb36280)
-*   *Twitter:* [Your Twitter Handle](https://x.com/SinghYash1961)
-*   *Portfolio:* [Your Portfolio Website Link](https://yourportfolio.com) (If you have one!)
-*   *Email:* [your.email@domain.com](mailto:singhyash9631@gmail.com)
+*   *LinkedIn:* [LinkedIn](www.linkedin.com/in/yashveer-singh-41bb36280)
+*   *Twitter:* [Twitter](https://x.com/SinghYash1961)
+*   *Portfolio:* [Portfolio](https://yourportfolio.com)
+*   *Email:* [Send Email](mailto:singhyash9631@gmail.com)
 
 ---
 
-⭐ *From Yashveer Singh(https://github.com/Yashveersir)*
+⭐ *From [Yashveer Singh](https://github.com/Yashveersir)*

@@ -50,7 +50,7 @@ I'm passionate about building full-stack web applications and solving complex pr
 
 I'm always open to discussing technology, collaboration, or internship opportunities.
 
-*   *LinkedIn:* [LinkedIn](www.linkedin.com/in/yashveer-singh-41bb36280)
+*   *LinkedIn:* [LinkedIn](https://www.linkedin.com/in/yashveer-singh-41bb36280/)
 *   *Twitter:* [Twitter](https://x.com/SinghYash1961)
 *   *Portfolio:* [Portfolio](https://yourportfolio.com)
 *   *Email:* [Send Email](mailto:singhyash9631@gmail.com)

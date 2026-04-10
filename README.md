@@ -19,10 +19,32 @@ I'm passionate about building full-stack web applications and solving complex pr
 
 ### 🚀 Highlight Projects
 
-#### *📌 [Project Name 1]*
+#### 📌 [Green Valley Farm](https://www.green-valley-farm.online/#)
+A full-stack poultry farm management and e-commerce platform that allows users to browse available hens, view pricing, and place orders online.
 
+- 🛒 Implemented product listing, cart, and order placement system  
+- 🔐 Secure authentication and user session handling  
+- 💳 Integrated online payment-ready workflow  
+- ⚡ Responsive UI for seamless user experience across devices  
 
-#### *📌 [Project Name 2]*
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+
+---
+
+#### 📌 [Backend Ledger](https://backend-ledger-8to4.onrender.com)
+A backend-focused ledger management system designed to track transactions, manage records, and provide secure API-based data handling.
+
+- 📊 Built RESTful APIs for transaction and account management  
+- 🔐 Implemented JWT-based authentication & authorization  
+- 🗄️ Efficient data modeling using MongoDB & Mongoose  
+- 🧪 Tested APIs using Postman for reliability  
+
+**Tech Stack:** Node.js, Express.js, MongoDB, JWT, Postman  
+
+---
+
+> 💡 Tip: For more projects, check out my [Pinned Repositories](#) below!
+
 
 
 > *💡 Tip:* For more projects, check out my [*Pinned Repositories*](#) below!
